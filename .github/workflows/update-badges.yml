@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 0am UTC
-    - cron: "56 23 * * *"
+    - cron: "57 23 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -12,7 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: efren-andres-mora.8116475d # optional, but default will use the same from github
+          CREDLY_USER: efren-andres-mora # optional, but default will use the same from github
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 24
