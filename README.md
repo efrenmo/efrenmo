@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Pedro Matias</h1>
 
 <!--START_SECTION:badges-->
 [![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/100x100/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](http://www.credly.com/badges/b0350987-5bc1-4806-9c75-47a81acab7c8 "AWS Certified Machine Learning – Specialty")
