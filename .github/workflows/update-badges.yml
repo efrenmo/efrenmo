@@ -3,7 +3,10 @@ name: Update badges
 on:
   schedule:
     # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    # cron: "0 2 * * *"
+    # Runs at 12:00 on day-of-month 1
+    - cron: "0 12 1 * *"
+    
   workflow_dispatch:
     inputs:
       logLevel:
