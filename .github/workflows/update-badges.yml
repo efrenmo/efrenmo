@@ -1,5 +1,8 @@
 name: Update badges
 
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 on:
   schedule:
     # Runs at 2am UTC
