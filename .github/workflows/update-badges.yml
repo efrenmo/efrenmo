@@ -27,7 +27,8 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: efren-andres-mora # optional, but default will use the same from github
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 24
 
