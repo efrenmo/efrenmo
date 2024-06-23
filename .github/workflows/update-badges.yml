@@ -29,7 +29,8 @@ jobs:
     steps:
       - name: Badges - Readme
         # uses: pemtajo/badge-readme@main
-        uses: pemtajo/badge-readme@2.4.0
+        # uses: pemtajo/badge-readme@2.4.0
+        uses: efrenmo/badge-readme@main        
         with:
           CREDLY_USER: efren-andres-mora
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
