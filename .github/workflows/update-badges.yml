@@ -1,3 +1,4 @@
+  
 name: Update badges
 
 env:
@@ -9,7 +10,6 @@ on:
     # cron: "0 2 * * *"
     # Runs at 12:00 on day-of-month 1
     - cron: "0 12 1 * *"
-    
   workflow_dispatch:
     inputs:
       logLevel:
@@ -18,17 +18,19 @@ on:
         default: 'warning'
       tags:
         description: 'Test scenario tags' 
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: efren-andres-mora # optional, but default will use the same from github
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CREDLY_USER: efren-andres-mora
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 24
-
