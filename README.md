@@ -22,7 +22,7 @@
 <a href="http://www.credly.com/badges/e8140418-1203-4ec5-8253-4530fd1ab5a7" title="Data Analysis with Python"><img src="https://images.credly.com/size/120x120/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" width="100" height="100" alt="Data Analysis with Python"></a>
 <a href="http://www.credly.com/badges/2d0f201a-cb8a-41b5-b738-afe7a0bc827e" title="Databases and SQL for Data Science"><img src="https://images.credly.com/size/120x120/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="100" height="100" alt="Databases and SQL for Data Science"></a>
 <a href="http://www.credly.com/badges/cf7e5b93-1f7f-436f-b992-9831e8e8680d" title="Data Science Orientation"><img src="https://images.credly.com/size/120x120/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="100" height="100" alt="Data Science Orientation"></a>
-<a href="http://www.credly.com/badges/9f8c4792-3aa2-49e3-974e-ed48bd7817a3" title="Python for Data Science and AI"><img src="https://images.credly.com/size/120x120/images/b6aa0bc8-1f0a-4939-beef-d073fa3fff9c/image.png" width="100" height="100" alt="Python for Data Science and AI"></a>
+<a href="http://www.credly.com/badges/9f8c4792-3aa2-49e3-974e-ed48bd7817a3" title="Python for Data Science and AI"><img src="https://images.credly.com/size/120x120/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100" height="100" alt="Python for Data Science and AI"></a>
 <!--END_SECTION:badges-->
 
 <!--
