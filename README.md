@@ -4,6 +4,35 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
 </div>
 
+# Data Engineer & Analytics Professional
+
+👋 Hi, I'm Efren! I architect data solutions that transform raw information into business intelligence.
+
+## What I Do
+
+I specialize in building end-to-end data pipelines and analytics systems that solve real business problems. My work spans:
+
+- **Data Pipeline Architecture**: AWS & Azure cloud infrastructure, Apache Airflow orchestration
+- **Analytics Engineering**: DBT transformations, data modeling, metrics calculation engines
+- **Machine Learning Integration**: NLP classification systems, predictive modeling
+- **Business Intelligence**: Interactive dashboards, financial analytics, market intelligence
+
+## Tech Stack
+
+🛠️ **Languages**: Python, SQL (PostgreSQL, Snowflake)  
+☁️ **Cloud**: AWS (EC2, Lambda, S3, ECR), Azure (Data Factory, Blob Storage, Synapse)  
+🔄 **Data Tools**: Databricks, Apache Airflow, Docker, DBT, Airbyte  
+📊 **Visualization**: Metabase, Tableau  
+
+## Portfolio Highlights
+
+My repositories showcase projects including:
+- Modern data stack implementations with Snowflake/DBT
+- Financial metrics calculation engines
+- NLP-powered classification pipelines
+- Neighborhood clustering for business intelligence
+
+I'm passionate about elegant solutions to complex data problems and always looking to collaborate on interesting data projects!
 
 
 <!--<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, welcome.</h1>-->
