@@ -40,6 +40,7 @@ I'm passionate about elegant solutions to complex data problems and always looki
 <h2> Recent Badges </h2>
 
 <!--START_SECTION:badges-->
+<img src="https://github.com/efrenmo/efrenmo/blob/main/images/badge-7227.png" width="100" height="100" alt="AWS Certified Machine Learning – Specialty"></a>
 <a href="http://www.credly.com/badges/b0350987-5bc1-4806-9c75-47a81acab7c8" title="AWS Certified Machine Learning – Specialty"><img src="https://images.credly.com/size/120x120/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="100" height="100" alt="AWS Certified Machine Learning – Specialty"></a>
 <a href="http://www.credly.com/badges/a4a313f9-9fda-4f1f-8156-fd2623372ebf" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner"></a>
 <a href="http://www.credly.com/badges/cc2451f4-84e8-4c7a-83da-ffbb2390cbbe" title="Data Science Professional Certificate"><img src="https://images.credly.com/size/120x120/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png" width="100" height="100" alt="Data Science Professional Certificate"></a>
